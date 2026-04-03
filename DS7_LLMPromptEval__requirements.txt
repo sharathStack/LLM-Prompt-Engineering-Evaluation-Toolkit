@@ -1,0 +1,17 @@
+# Core analytics & visualisation
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+
+# Standard library (built-in, no pip install needed):
+#   json   — JSONL annotation file I/O
+#   uuid   — unique annotation record IDs
+#   math   — radar chart angle calculations
+
+# To connect a real LLM API (optional, for production use):
+#   openai>=1.0          # OpenAI API
+#   anthropic>=0.20      # Anthropic Claude API
+#   requests>=2.31       # Generic REST API calls
+
+# Install command:
+#   pip install numpy pandas matplotlib
