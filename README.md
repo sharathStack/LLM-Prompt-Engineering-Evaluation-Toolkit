@@ -1,4 +1,4 @@
-LLM Prompt Engineering & Evaluation Toolkit
+# LLM Prompt Engineering & Evaluation Toolkit
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![LLM](https://img.shields.io/badge/Domain-LLM%20Evaluation-purple)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
@@ -20,9 +20,15 @@ pip install -r DS7_LLMPromptEval__requirements.txt
 python DS7_LLMPromptEval__main.py
 ```
 Results
+
 Strategy	Score	Grade
+
 Chain of Thought	~88%	A
+
 Few-shot	~85%	A
+
 Role-based	~82%	B
+
 Structured Output	~80%	B
+
 Zero-shot	~68%	C
