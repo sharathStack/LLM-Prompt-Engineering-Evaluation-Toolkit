@@ -19,7 +19,7 @@ Run
 pip install -r DS7_LLMPromptEval__requirements.txt
 python DS7_LLMPromptEval__main.py
 ```
-Results
+## Results
 
 Strategy	Score	Grade
 
